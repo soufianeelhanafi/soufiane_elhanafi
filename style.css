@@ -1,0 +1,30 @@
+
+.infosrow {
+  background-color: #cfd8dc;
+   padding: 5px ;
+   left: 70px ;
+}
+.infos{
+   margin : 10px ;
+   padding: 20px ;
+}
+
+.title{
+   background-color: transparent;
+   margin : 5px ;
+   padding: 20px ;
+   right: 33px ;
+}
+.img {
+     left: 60px ;
+     vertical-align:top;
+     top : 12px;
+}
+
+.strong_color {
+  color: #1565c0
+  }
+.paragraphe{
+
+  color : #000000;
+}
